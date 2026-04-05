@@ -1,0 +1,23 @@
+{
+  "name": "Conectiva - Mi Cuenta",
+  "short_name": "Conectiva",
+  "description": "Portal del Cliente Conectiva",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0d1b4b",
+  "theme_color": "#0057FF",
+  "icons": [
+    {
+      "src": "Logo_Perfil.jpeg.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "Logo_Perfil.jpeg.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
